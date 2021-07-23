@@ -1,0 +1,13 @@
+.results {
+    padding-right: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+    border-radius: 12px;
+    width: 90%;
+    margin-top:10%;
+    margin-bottom: 10%;
+}
+
+  .results section {
+    border: 1px;
+  }
