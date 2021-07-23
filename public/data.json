@@ -8,7 +8,8 @@
       "stops":4,
       "price":3000,
       "sourceCity": "chennai",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":2,
       "airlineName":"flight_two",
@@ -18,7 +19,8 @@
       "stops":2,
       "price":9000,
       "sourceCity": "chennai",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":3,
       "airlineName":"flight_three",
@@ -28,7 +30,8 @@
       "stops":2,
       "price":13000,
       "sourceCity": "chennai",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":4,
       "airlineName":"flight_four",
@@ -38,7 +41,8 @@
       "stops":4,
       "price":30000,
       "sourceCity": "mumbai",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":5,
       "airlineName":"flight_five",
@@ -48,7 +52,8 @@
       "stops":6,
       "price":2000,
       "sourceCity": "mumbai",
-      "destinationCity": "cheenai"
+      "destinationCity": "cheenai",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":6,
       "airlineName":"flight_six",
@@ -58,7 +63,8 @@
       "stops":4,
       "price":2500,
       "sourceCity": "mumbai",
-      "destinationCity": "delhi"
+      "destinationCity": "delhi",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":7,
       "airlineName":"flight_seven",
@@ -68,7 +74,8 @@
       "stops":6,
       "price":2000,
       "sourceCity": "delhi",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":8,
       "airlineName":"flight_eight",
@@ -78,7 +85,8 @@
       "stops":6,
       "price":2800,
       "sourceCity": "delhi",
-      "destinationCity": "chennai"
+      "destinationCity": "chennai",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":9,
       "airlineName":"flight_nine",
@@ -88,7 +96,8 @@
       "stops":6,
       "price":3000,
       "sourceCity": "delhi",
-      "destinationCity": "mumbai"
+      "destinationCity": "mumbai",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":10,
       "airlineName":"flight_ten",
@@ -98,7 +107,8 @@
       "stops":4,
       "price":8000,
       "sourceCity": "chennai",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":11,
       "airlineName":"flight_eleven",
@@ -108,7 +118,8 @@
       "stops":6,
       "price":4000,
       "sourceCity": "chennai",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":12,
       "airlineName":"flight_twelve",
@@ -118,7 +129,8 @@
       "stops":2,
       "price":10000,
       "sourceCity": "chennai",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":13,
       "airlineName":"flight_thirteen",
@@ -128,7 +140,8 @@
       "stops":2,
       "price":9000,
       "sourceCity": "chennai",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":14,
       "airlineName":"flight_fourteen",
@@ -138,7 +151,8 @@
       "stops":4,
       "price":4000,
       "sourceCity": "delhi",
-      "destinationCity": "srinagar"
+      "destinationCity": "srinagar",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":15,
       "airlineName":"flight_fifteen",
@@ -148,7 +162,8 @@
       "stops":6,
       "price":2000,
       "sourceCity": "delhi",
-      "destinationCity": "kolkata"
+      "destinationCity": "kolkata",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":17,
       "airlineName":"flight_seventeen",
@@ -158,7 +173,8 @@
       "stops":5,
       "price":2000,
       "sourceCity": "delhi",
-      "destinationCity": "andamon"
+      "destinationCity": "andamon",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":18,
       "airlineName":"flight_eighteen",
@@ -168,7 +184,8 @@
       "stops":1,
       "price":13000,
       "sourceCity": "chennai",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":19,
       "airlineName":"flight_nineteen",
@@ -178,7 +195,8 @@
       "stops":6,
       "price":2300,
       "sourceCity": "chennai",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     },
       {"flightnumber":20,
       "airlineName":"flight_twenty",
@@ -188,7 +206,8 @@
       "stops":2,
       "price":15000,
       "sourceCity": "chennai",
-      "destinationCity": "bangalore"
+      "destinationCity": "bangalore",
+      "travelDate": "2021-07-23"
     }
   ]
 }

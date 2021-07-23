@@ -57,7 +57,7 @@ const Results = () => {
 
     if (flightDetails !== undefined && Object.keys(userSearch).length > 0) {
         filteredDetail = flightDetails.filter((arr, i) => {
-            if (arr.sourceCity === userSearch?.sourceCity.toLowerCase() && arr.destinationCity === userSearch?.destinationCity.toLowerCase()) {
+            if (arr.sourceCity === userSearch?.sourceCity.toLowerCase() && arr.destinationCity === userSearch?.destinationCity.toLowerCase() && arr.travelDate === userSearch?.travelDate) {
                 return true
             }
         });
